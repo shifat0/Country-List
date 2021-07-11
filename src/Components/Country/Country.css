@@ -1,0 +1,21 @@
+.country{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    color: #fff;
+    border: 1px solid lightseagreen;
+    background-color: lightslategrey;
+}
+
+.country img{
+    height: 50px;
+    max-width: 100%;
+}
+
+button{
+    background-color: lightsalmon;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border-style: none;
+    color: #fff;
+}
